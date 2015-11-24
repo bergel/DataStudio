@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "DSAddCollectionEvent",
+		"object" ],
+	"name" : "DSOneElementCollectionEvent",
 	"pools" : [
 		 ],
-	"super" : "DSOneElementCollectionEvent",
+	"super" : "DSEvent",
 	"type" : "normal" }

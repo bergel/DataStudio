@@ -10,5 +10,5 @@
 	"name" : "DSRemoveCollectionEvent",
 	"pools" : [
 		 ],
-	"super" : "DSEvent",
+	"super" : "DSOneElementCollectionEvent",
 	"type" : "normal" }

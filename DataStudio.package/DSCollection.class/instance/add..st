@@ -1,4 +1,4 @@
 adding
 add: object
-	self announce: (DSAddCollectionEvent new element: object)
+	self announce: (DSAddCollectionEvent new object: object).
 	collection add: object

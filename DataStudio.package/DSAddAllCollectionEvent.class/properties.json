@@ -10,5 +10,5 @@
 	"name" : "DSAddAllCollectionEvent",
 	"pools" : [
 		 ],
-	"super" : "DSEvent",
+	"super" : "DSMultipleElementsCollectionEvent",
 	"type" : "normal" }
