@@ -1,0 +1,14 @@
+{
+	"category" : "DataStudio",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DSObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

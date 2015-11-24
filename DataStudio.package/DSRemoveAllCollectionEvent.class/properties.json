@@ -1,0 +1,14 @@
+{
+	"category" : "DataStudio",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DSRemoveAllCollectionEvent",
+	"pools" : [
+		 ],
+	"super" : "DSEvent",
+	"type" : "normal" }

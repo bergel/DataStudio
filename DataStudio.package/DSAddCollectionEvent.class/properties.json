@@ -1,0 +1,14 @@
+{
+	"category" : "DataStudio",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"object" ],
+	"name" : "DSAddCollectionEvent",
+	"pools" : [
+		 ],
+	"super" : "DSEvent",
+	"type" : "normal" }

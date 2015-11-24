@@ -1,0 +1,3 @@
+testing
+notEmpty
+	^ collection notEmpty
