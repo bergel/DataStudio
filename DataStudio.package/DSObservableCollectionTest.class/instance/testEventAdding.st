@@ -7,3 +7,4 @@ testEventAdding
 	self assert: t isNil.
 	c add: 42.
 	self assert: t notNil.
+	self assert: t object equals: 42.

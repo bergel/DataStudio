@@ -1,0 +1,14 @@
+{
+	"category" : "DataStudio",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"c" ],
+	"name" : "DSObservableCollectionTest",
+	"pools" : [
+		 ],
+	"super" : "DSTest",
+	"type" : "normal" }

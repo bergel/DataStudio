@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"collection",
-		"announcer" ],
-	"name" : "DSCollection",
+		"c" ],
+	"name" : "DSTypedCollectionTest",
 	"pools" : [
 		 ],
-	"super" : "DSObject",
+	"super" : "DSTest",
 	"type" : "normal" }
