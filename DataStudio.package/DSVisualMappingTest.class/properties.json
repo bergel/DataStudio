@@ -1,0 +1,14 @@
+{
+	"category" : "DataStudio",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DSVisualMappingTest",
+	"pools" : [
+		 ],
+	"super" : "DSTest",
+	"type" : "normal" }

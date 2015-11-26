@@ -1,0 +1,14 @@
+{
+	"category" : "DataStudio",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"c" ],
+	"name" : "DSRCollectionTest",
+	"pools" : [
+		 ],
+	"super" : "DSTest",
+	"type" : "normal" }
