@@ -7,7 +7,7 @@ visualize: collection in: view
 	ds := RTData new.
 	ds dotShape color: Color blue trans.
 	ds points: collection.
-	ds x: #x.
-	ds y: #y.
+	ds x: self metrics first.
+	ds y: self metrics second.
 	b add: ds.
 	b build

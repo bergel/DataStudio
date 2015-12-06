@@ -1,4 +1,4 @@
-as yet unclassified
+examples
 simpleCollection
 	<gtExample>
 	^ #(-2 1 2 3 3 8 7 2 -6) asDSColl.

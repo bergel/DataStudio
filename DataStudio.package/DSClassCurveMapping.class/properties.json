@@ -1,0 +1,14 @@
+{
+	"category" : "DataStudio",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DSClassCurveMapping",
+	"pools" : [
+		 ],
+	"super" : "DSCurveMapping",
+	"type" : "normal" }

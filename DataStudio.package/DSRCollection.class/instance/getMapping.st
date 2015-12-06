@@ -6,8 +6,10 @@ getMapping
 	variableType := self variableType.
 	s := 0.
 	selectedClass := DSGenericMapping.
-	DSVisualMapping allSubclasses do: [ :cc |
+	(DSVisualMapping allSubclasses reject: #hasSubclasses) do: [ :cc |
 		(cc new scoreFor: variableType) > s
-			ifTrue: [ selectedClass := cc. s := cc new scoreFor: variableType ]
+			ifTrue: [ 
+				selectedClass := cc. 
+				s := cc new scoreFor: variableType ]
 	].
 	^ selectedClass new
