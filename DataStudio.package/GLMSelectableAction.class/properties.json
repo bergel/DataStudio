@@ -1,0 +1,14 @@
+{
+	"category" : "DataStudio",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GLMSelectableAction",
+	"pools" : [
+		 ],
+	"super" : "GLMRoassal2Action",
+	"type" : "normal" }

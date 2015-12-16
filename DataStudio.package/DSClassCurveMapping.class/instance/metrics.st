@@ -1,3 +1,3 @@
-as yet unclassified
+hooks
 metrics
 	^ #(#numberOfVariables #numberOfMethods #numberOfLineOfCode)

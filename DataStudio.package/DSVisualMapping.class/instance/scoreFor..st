@@ -1,4 +1,4 @@
-as yet unclassified
+public
 scoreFor: aClass
 	| ss |
 	ss := aClass withAllSuperclasses.
