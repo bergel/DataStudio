@@ -10,6 +10,6 @@ visualizeOn: view
 	ms do: [ :c |
 		mb menu: 'Views' submenu: c mappingName background: (Color red trans) callback: [ 
 			view clean.
-			c new visualize: self in: view.
+			c new visualize: self filteredCollection in: view.
 			view canvas focusOnCenterScaled.
 			view signalUpdate ] ]

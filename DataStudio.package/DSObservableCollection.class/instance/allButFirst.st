@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 allButFirst
 	^ self class withAll: collection allButFirst

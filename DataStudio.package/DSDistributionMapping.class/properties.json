@@ -7,7 +7,7 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "DSGenericMapping",
+	"name" : "DSDistributionMapping",
 	"pools" : [
 		 ],
 	"super" : "DSAbstractGenericMapping",

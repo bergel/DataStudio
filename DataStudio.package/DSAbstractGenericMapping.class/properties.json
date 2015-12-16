@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "DSGenericMapping",
+	"name" : "DSAbstractGenericMapping",
 	"pools" : [
 		 ],
-	"super" : "DSAbstractGenericMapping",
+	"super" : "DSVisualMapping",
 	"type" : "normal" }
