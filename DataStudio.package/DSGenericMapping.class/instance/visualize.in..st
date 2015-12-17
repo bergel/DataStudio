@@ -13,4 +13,5 @@ visualize: collection in: view
 	lb view: view.
 	lb onDemand.
 	lb addText: 'Each element is associated to a color'.
+	lb addText: 'Elements are ordered from left to right, up to bottom'.
 	lb build.

@@ -12,12 +12,13 @@ visualize: collection in: view
 	ds y: #value.
 	ds interaction popupText: [ :assoc | assoc value asString, ' times the value ', assoc key asString ].
 	b add: ds.
-	b axisX noTick; noLabel; title: 'group of elements'.
-	b axisY title: 'Number of equal group of element'.
+	b axisX noTick; noLabel; title: 'Cluster of equal elements'.
+	b axisY title: 'Cluster size'.
 	b build.
 	
 	lb := RTLegendBuilder new.
 	lb view: view.
 	lb addText: 'The collections contains ', collection size asString, ' elements'.
-	lb addText: groups size asString, ' elements are actually distincts.'.
+	lb addText: 'It contains ', groups size asString, ' clusters of equal elements'.
+	groups size = collection size ifTrue: [ lb addText: 'All elements are differents' ].
 	lb build.
