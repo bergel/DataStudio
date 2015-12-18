@@ -1,0 +1,14 @@
+{
+	"category" : "DataStudio",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DSAbstractNumberMapping",
+	"pools" : [
+		 ],
+	"super" : "DSVisualMapping",
+	"type" : "normal" }
