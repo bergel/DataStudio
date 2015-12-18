@@ -1,6 +1,5 @@
 hooks
 visualize: collection in: view
-
 	| b ds |
 	b := RTGrapher new.
 	b view: view.
