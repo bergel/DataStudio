@@ -1,14 +1,14 @@
 {
-	"category" : "DataStudio-Tests",
+	"category" : "DataStudio-Mapping",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"c" ],
-	"name" : "DSRCollectionTest",
+		 ],
+	"name" : "DSDistributionNumberMapping",
 	"pools" : [
 		 ],
-	"super" : "DSTest",
+	"super" : "DSAbstractNumberMapping",
 	"type" : "normal" }

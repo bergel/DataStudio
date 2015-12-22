@@ -1,3 +1,3 @@
-as yet unclassified
+enumerating
 groupedBy: aBlockOrSymbol
 	^ collection groupedBy: aBlockOrSymbol
